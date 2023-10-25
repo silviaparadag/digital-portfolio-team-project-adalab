@@ -66,19 +66,35 @@ npm start
 
 ## MODULE 3 | 👩🏻‍💻👩🏻‍💻👩🏼‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻 Team project
 
+&nbsp;
 🔸 **Aida Blaya** @Aidablaya
+
+&nbsp;
 🔸 **Andrea Ferreiro** @AndreaFerreiro
+
+&nbsp;
 🔸 **Silvia Parada** @silviaparadag
+
+&nbsp;
 🔸 **Rebeca Serrano** @rebanada
+
+&nbsp;
 🔸 **Celia Suarez** @CeliaMSB
+
+&nbsp;
 🔸 **Irene Talaveroo** @IreneTaPa
 
 &nbsp;
 
 This project has been supervised by:
 
+&nbsp;
 🔹 **Dayana Romero** @dayanare
+
+&nbsp;
 🔹 **Iván Garrido** @igarrido-adalab
+
+&nbsp;
 🔹 **Yanelis Serrano** @ytaylordev
 
 © Adalab 2023 | Trótula Promotion

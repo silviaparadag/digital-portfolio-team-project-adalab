@@ -24,6 +24,7 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
+
     @include tablet() {
       flex-direction: row;
       align-content: flex-start;
@@ -42,6 +43,7 @@
 .hidden {
   display: none;
 }
+
 /*
 font-family: 'Cormorant Garamond', serif;
 font-family: 'Lora', serif;

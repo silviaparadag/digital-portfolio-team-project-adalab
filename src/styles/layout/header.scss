@@ -6,13 +6,16 @@
   flex-direction: row;
   justify-content: space-between;
   padding: 15px 26px 0;
-  &__logo{
+
+  &__logo {
     width: 80px;
   }
+
   @include tablet() {
     padding: 20px 34px 0;
     width: 100%;
-    &__logo{
+
+    &__logo {
       width: 160px;
     }
   }
@@ -20,4 +23,8 @@
   &__text {
     color: $white;
   }
+}
+
+.link {
+  text-decoration: none;
 }

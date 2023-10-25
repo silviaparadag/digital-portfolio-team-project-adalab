@@ -4,12 +4,12 @@ import programadoresJ from '../images/programadoresJU.png';
 const Landing = () => {
   return (
     <div className="landingPage">
-      <img className='landingImg' src={programadoresJ}></img>
+      <img className="landingImg" src={programadoresJ}></img>
       <p className="slogan">
         Las nuevas promesas de la programación web se esconden detrás de estos
         increíbles proyectos
       </p>
-      <div className='questions'>
+      <div className="questions">
         <p className="question1">
           Has empezado hace poco en el mundo de la programación web y te
           gustaría dar a conocer tu trabajo? Participa subiendo un resumen de
@@ -20,9 +20,14 @@ const Landing = () => {
           nuestra galeria de proyectos y escoge tu favorito!!
         </p>
       </div>
-      <Link to="/Inicio">
-        <button className='inicioButton'>Inicio</button>
-      </Link>
+      <div className="landingPage__buttons">
+        <Link to="/Inicio">
+          <button className="landingPage__buttons--btn">CREAR PROYECTOS</button>
+        </Link>
+        <Link to="/Archivo">
+          <button className="landingPage__buttons--btn">VER PROYECTOS</button>
+        </Link>
+      </div>
     </div>
   );
 };

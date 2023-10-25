@@ -36,6 +36,7 @@ In addition, if the user can finish completing the form later, the data is saved
 - `Zeplin`
 - `GitHub`
 - `GitHub Pages`
+- `Agile-Scrum` with GitHub Projects for team organization & coordination *(sprints/dailies/board panel/backlog)*
 
 &nbsp;
 

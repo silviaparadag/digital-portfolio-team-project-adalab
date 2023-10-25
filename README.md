@@ -25,6 +25,81 @@ With the creation of a digital project file, which as mentioned before, can be s
 
 In addition, if the user can finish completing the form later, the data is saved in the Local Storage, so that she can continue with the fields already filled in.
 
+
+## ⚒️ | Tools
+
+- `HTML`
+- `CSS, Saas`
+- `JavaScript`
+- `React`
+- `JSX`
+- `Visual Studio Code`
+- `Zeplin`
+- `GitHub`
+- `GitHub Pages`
+- `Agile-Scrum` with GitHub Projects for team organization & coordination *(sprints/dailies/board panel/backlog)*
+
 &nbsp;
 
-<img width="981" alt="pjw" src="https://github.com/silviaparadag/digital-portfolio-team-project-adalab/assets/130361802/f66737f4-872c-497f-9653-9b647f655636">
+## 🎲 | Getting started
+
+1. To start the project, download or fork the repository.
+
+2. To install NPM packages & dependencies, run the following line in your terminal:
+
+~~~
+npm install
+~~~
+
+3. To be able to view the page in the browser, run:
+
+~~~
+npm start
+~~~
+
+> **Note** In this project, we can find the following files and folders:
+>
+>- The folder 📂 `src/` is the files of this web page: HTML, SCSS, JavaScript and images.
+>- The folders 📚 `public/` and `docs/`, are generated automatically when we start the project. GULP reads the files found in the src/ folder, processes them and then generates them inside `public/` and `docs/`.
+>- Other 📝 files found in the repository root as 'gulpfile.js', 'package.json', etc. are configuration files and we don't need to modify them.
+>- To publish on GitHub Pages and generate your page for production run the command: `npm run githubpages`
+
+&nbsp;
+
+## MODULE 3 | 👩🏻‍💻👩🏻‍💻👩🏼‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻 Team project
+
+&nbsp;
+🔸 **Aida Blaya** @Aidablaya
+
+&nbsp;
+🔸 **Andrea Ferreiro** @AndreaFerreiro
+
+&nbsp;
+🔸 **Silvia Parada** @silviaparadag
+
+&nbsp;
+🔸 **Rebeca Serrano** @rebanada
+
+&nbsp;
+🔸 **Celia Suarez** @CeliaMSB
+
+&nbsp;
+🔸 **Irene Talavero** @IreneTaPa
+
+&nbsp;
+
+This project has been supervised by:
+
+&nbsp;
+🔹 **Dayana Romero** @dayanare
+
+&nbsp;
+🔹 **Iván Garrido** @igarrido-adalab
+
+&nbsp;
+🔹 **Yanelis Serrano** @ytaylordev
+
+
+&nbsp;
+
+© Adalab 2023 | Trótula Promotion
